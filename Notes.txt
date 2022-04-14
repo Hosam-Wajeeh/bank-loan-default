@@ -1,0 +1,5 @@
+Use PCA instead of dropping columns that had high correlation?!
+Maybe go back to the labeling of the 'purpose' column and One hot encode it intead of the labeling?!
+imbalanced data maybe try out smote
+
+Try the class wieghted XGBoost
